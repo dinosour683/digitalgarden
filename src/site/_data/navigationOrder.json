@@ -1,0 +1,35 @@
+{
+  "/": [
+    "World - Azerith"
+  ],
+  "/World - Azerith": [
+    "The Gods",
+    "Azerith",
+    "Dragolith",
+    "Groustia",
+    "Lavastia",
+    "Shallow Hills",
+    "Transin"
+  ],
+  "/World - Azerith/Dragolith": [
+    "Dragolith",
+    "The Spire"
+  ],
+  "/World - Azerith/Groustia": [
+    "Animos",
+    "Groustia"
+  ],
+  "/World - Azerith/Lavastia": [
+    "Lavastia",
+    "Living-Tree",
+    "Maenin"
+  ],
+  "/World - Azerith/Shallow Hills": [
+    "Hannoia",
+    "Shallow Hills"
+  ],
+  "/World - Azerith/Transin": [
+    "Quish",
+    "Transin"
+  ]
+}
