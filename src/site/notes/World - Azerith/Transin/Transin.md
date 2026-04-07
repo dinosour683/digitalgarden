@@ -6,7 +6,7 @@
 
 ## Information
 
-**Political System:** Transin is the only traditional monarchy in Azerith. The faction is ruled by a queen or king known as the "King/Queen of Frost." The 'frost hood' is passed down to the leader's eldest child when the leader dies or abdicates their throne. It is believed that the bloodline of the throne is descended from [[World - Azerith/The Gods#The Pantheon\|Glacious]] themself. The current leader is Queen 
+**Political System:** Transin is the only traditional monarchy in Azerith. The faction is ruled by a queen or king known as the "King/Queen of Frost." The 'frost hood' is passed down to the leader's eldest child when the leader dies or abdicates their throne. It is believed that the bloodline of the throne descends from [[World - Azerith/The Gods#The Pantheon\|Glacious]] themself. The current leader is Queen 
 
 **Border:** The government of Transin has control over all of the land that is regularly icy and cold. 
 

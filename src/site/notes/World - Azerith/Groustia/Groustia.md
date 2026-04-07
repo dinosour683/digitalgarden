@@ -22,7 +22,7 @@ Groustia has a hot desert climate with forests of dry trees surrounded by seemin
 
 There are a few key geographical features in Groustia. There are two large forests, the Shadowed Sky and the Burning Field. 
 
-The Shadowed Sky is named after the fact that the trees there are tall and jet black, often confusing as they block out the sun. Locals warn of times when all you can see is darkness once entering the forest. The Shadowed Sky is home to many dangerous monsters that roam the darkness. 
+The Shadowed Sky is named after the fact that the trees there are tall and jet black, often confusing, as they block out the sun. Locals warn of times when all you can see is darkness once entering the forest. The Shadowed Sky is home to many dangerous monsters that roam the darkness. 
 
 The Burning Field is almost the complete opposite. Due to the dryness of the area, the forest is almost perpetually burning. Smoke can be seen from miles away from the forest, making it a key landmark for travelling merchants and nomads alike. 
 

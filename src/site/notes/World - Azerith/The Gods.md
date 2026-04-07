@@ -10,7 +10,7 @@ In total, the gods are split into three levels of power: pantheon gods, minor go
 
 ### The Pantheon 
 
-All of the strongest gods in Azerith are often considered to be a part of a pantheon (a group of gods that work together). The gods from The Pantheon were the original beings, and no one knows what came before them. The Pantheon created Azerith and all of the living things that populate it. There are 14 gods in The Pantheon, each with jurisdiction over a certain aspect of Azerith.
+All of the strongest gods in Azerith are often considered to be a part of a pantheon (a group of gods that work together). The gods from the Pantheon were the original beings, and no one knows what came before them. The Pantheon created Azerith and all of the living things that populate it. There are 14 gods in The Pantheon, each with jurisdiction over a certain aspect of Azerith.
 
 Although these gods are almost exclusively referred to as "gods" and not "goddesses" gods appear in many forms, some choosing to represent more masculinely and others more femininely. 
 

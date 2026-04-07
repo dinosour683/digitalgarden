@@ -6,7 +6,7 @@
 
 ## Information
 
-**Political System:** A representative democracy where every 500 days, a new leader is elected president. The presidents of Dragolith are all powerful in the government. The current leader is a drakona woman named "Ranshin Sabertooth".
+**Political System:** A representative democracy where every 500 days, a new leader is elected president. The presidents of Dragolith are all-powerful in the government. The current leader is a drakona woman named "Ranshin Sabertooth".
 
 **Border:** [[World - Azerith/Azerith#The Gaping Maw\|The Gaping Maw]] is what draws the political border for Dragolith, as well as the habitat for the Dragons. Dragolith is noted as starting at the sea and ending at the far side of the Gaping Maw. 
 

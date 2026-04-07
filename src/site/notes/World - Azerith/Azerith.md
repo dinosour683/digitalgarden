@@ -11,11 +11,11 @@
 
 ## Factions
 
-Azerith is not a single nation, but rather divided into distinct groups known as 'factions'. Factions are essentially their own nations with a leader/political system, a capital city, trade routes, and an international bureaucracy. The borders of the factions are primarily based on culture and geography, with each faction having a distinct defining characteristic. Due to the slightly 'wishy-washy' nature of these borders, land disputes are common. There are 5 factions in Azerith;
+Azerith is not a single nation, but rather divided into distinct groups known as 'factions'. Factions are essentially their own nations with a leader/political system, a capital city, trade routes, and an international bureaucracy. The borders of the factions are primarily based on culture and geography, with each faction having a distinct defining characteristic. Due to the slightly 'wishy-washy' nature of these borders, land disputes are common. There are 5 factions in Azerith.
 
 1. [[World - Azerith/Dragolith/Dragolith\|Dragolith]] - A society that worships the many [[World - Azerith/Dragolith/Dragons/Dragons\|Dragons]] which are native to the area. 
 2. [[World - Azerith/Lavastia/Lavastia\|Lavastia]] - A faction made up primarily of forests. The people of Lavastia may live in homes on the ground, in trees, or even underground. 
-3. [[World - Azerith/Transin/Transin\|Transin]] - A faction in the south of Azerith, where, due to the blessings of [[World - Azerith/The Gods#The Pantheon\|Glacious]], the god of ice, it is winter all year long. 
+3. [[World - Azerith/Transin/Transin\|Transin]] - A faction in the south of Azerith, where, due to the blessings of [[World - Azerith/The Gods#The Pantheon\|Glacious]], The god of ice, it is winter all year long. 
 4. [[World - Azerith/Groustia/Groustia\|Groustia]] - A land of mostly desert and death. This is the least populated faction due to its harsh conditions.
 5. [[World - Azerith/Shallow Hills/Shallow Hills\|Shallow Hills]] - A faction filled with strange mole-like hills that can be as tall as mountains. People live on, in, or even under these hills. 
 
@@ -38,7 +38,7 @@ There is only one major river in Azerith (although there are, of course, many ri
 
 ### The Gaping Maw
 
-The Gaping Maw is a mountain range that stretches from the Northwest side of Azerith to [[World - Azerith/Transin/Transin\|Transin]]. The Gaping Maw is used as the border between [[World - Azerith/Dragolith/Dragolith\|Dragolith]] and [[World - Azerith/Shallow Hills/Shallow Hills\|Shallow Hills]] in both a political and ecological sense. Not only is the faction of Dragolith confined to the mountain range due to the treacherous journey to cross it Dragons are confined as well. 
+The Gaping Maw is a mountain range that stretches from the Northwest side of Azerith to [[World - Azerith/Transin/Transin\|Transin]]. The Gaping Maw is used as the border between [[World - Azerith/Dragolith/Dragolith\|Dragolith]] and [[World - Azerith/Shallow Hills/Shallow Hills\|Shallow Hills]] in both a political and ecological sense. Not only is the faction of Dragolith confined to the mountain range due to the treacherous journey to cross it, but Dragons are also confined. 
 
 Only in the past 400 years was a proper path made, allowing easier access to Dragolith. Before this, the only way to get to Dragolith was by sea. This has opened up opportunities for trade, research, and tourism. 
 
@@ -110,7 +110,7 @@ The months are all named after gods of [[World - Azerith/The Gods#The Pantheon\|
 13. Month of Heartfelt
 14. Month of Strackia
 
-In addition to this, there are four main seasons in Azerith; 
+In addition to this, there are four main seasons in Azerith. 
 - Sunfall (Summer) - Lasts from the Day of Stella to the 28th of Quallion
 - Fruitfall (Fall/Autumn) - Lasts from the 1st of Whispers to the 28th of Graer
 - Snowfall (Winter) - Lasts from the 1st of Glacious to the 28th of Lisdron
@@ -144,7 +144,7 @@ The day of Stella is by far the biggest day of celebration in Azerith and is cel
 
 The new year, the sunfall solstice, the anniversary of the end of the Great War, and the anniversary of the beginning of the Great War are all celebrated on this day. The fact that the Great War began on this day means that there is some mourning in addition to all of the celebration.  
 
-At midnight, people will set off fireworks and celebrate the start of a new year. These celebrations are almost identical to those on Earth. Typically, people will attend the solstice parade in the morning after getting some sleep, where they attend prayers and performances. Then in the afternoon, they visit the graves of people who died in the Great War to mourn any losses. In the evening, there will often be celebrations of the end of the Great War. 
+At midnight, people will set off fireworks and celebrate the start of a new year. These celebrations are almost identical to those on Earth. Typically, people will attend the solstice parade in the morning after getting some sleep, where they attend prayers and performances. Then, in the afternoon, they visit the graves of people who died in the Great War to mourn any losses. In the evening, there will often be celebrations of the end of the Great War. 
 
 
 #### Solstices & Equinoxes
