@@ -1,6 +1,7 @@
 {
   "/": [
-    "World - Azerith"
+    "World - Azerith",
+    "Player Notes"
   ],
   "/World - Azerith": [
     "Azerith",
@@ -31,5 +32,13 @@
   "/World - Azerith/Transin": [
     "Transin",
     "Quish"
+  ],
+  "/Player Notes": [
+    "Player Notes 1",
+    "Druids Diary",
+    "Player Notes 2",
+    "Potion Recipes",
+    "Player Notes 3",
+    "Player Notes 4"
   ]
 }
