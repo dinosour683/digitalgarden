@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/world-azerith/azerith/","tags":["lore","location","dg-publish","dg-home","gardenEntry"],"dg-note-properties":{"tags":["lore","location","dg-publish","dg-home","gardenEntry"]}}
 ---
 
-	The world of Azerith is approximately the size of the United States of America, but it is not a single nation-state. The land itself is a continent surrounded by water, a high-fantasy world where common magic is used in everyday life, but powerful magic is rare and feared. Most mundane (non-magical) technologies are medieval, using weapons such as swords, trebuches, and rudimentary firearms. People live in castles and keeps, and the law is enforced by knights. 
+	The world of Azerith is approximately the size of the United States of America, but it is not a single nation-state. The land itself is a continent surrounded by water, a high-fantasy world where common magic is used in everyday life, but powerful magic is rare and feared. Most mundane (non-magical) technologies are medieval, using weapons such as swords, trebuchets, and rudimentary firearms. People live in castles and keeps, and the law is enforced by knights. 
 
 ## Map
 
